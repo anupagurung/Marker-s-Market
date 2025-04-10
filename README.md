@@ -1,2 +1,2 @@
 # Marker-s-Market
-E-commerce Platform design using Fogma
+E-commerce Platform design using Figma
